@@ -26,3 +26,4 @@ HTML & CSS
 
 ## This web page was edited by Samet KOLSUZ ##
 # Amazon-Clone
+# udemig
